@@ -1,4 +1,5 @@
 #Weather App
+
 The Weather App is a user-friendly tool designed to fetch and display the current weather information for any city or state. This app leverages several web technologies to deliver a seamless and interactive experience:
 
 HTML5: Provides the structure and layout of the app, defining elements like the input field, button, and result display area.
