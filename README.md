@@ -11,3 +11,6 @@ Real-Time Weather Data: Fetches and displays the current weather, including temp
 Dynamic User Interface: Updates the weather information dynamically based on user input.
 Responsive Design: Ensures the app looks and functions well on different screen sizes and devices.
 Error Handling: Provides meaningful error messages when the user input is invalid or the city is not found.
+
+
+![Screenshot 2024-07-05 102057](https://github.com/vishnumadnani/Weather_App/assets/82500052/2e1e759b-0909-4b86-9b00-43c1419f4939)
